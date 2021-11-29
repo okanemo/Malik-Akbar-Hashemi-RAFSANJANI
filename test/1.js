@@ -1,0 +1,1 @@
+module.exports = ['radar','kodok','sapi','ayam','kasurrusak','keset','otto','tenet'];
