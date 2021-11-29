@@ -8,6 +8,14 @@
 5. Buatlah sebuah fungsi yang dapat mencetak total self number dibawah 200
     > Self number adalah bilangan yang tidak bisa diciptakan melalui metode “penjumlahan dari suatu bilangan dengan invidu angka dari suatu bilangan tersebut”.
 
+## Directory Structure
+```py
+├ main.js       # main program for testing
+├ README.md     # general informations
+├───src         # test cases folder
+└───test        # answer functions folder
+```
+
 ## Setup
 - Pastikan Node JS telah terinstall pada komputer anda
 
